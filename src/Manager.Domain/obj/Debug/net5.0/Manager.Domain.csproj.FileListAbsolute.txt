@@ -1,0 +1,15 @@
+D:\projetos\c# .net\Manager\src\Manager.Domain\bin\Debug\net5.0\Manager.Domain.deps.json
+D:\projetos\c# .net\Manager\src\Manager.Domain\bin\Debug\net5.0\Manager.Domain.dll
+D:\projetos\c# .net\Manager\src\Manager.Domain\bin\Debug\net5.0\ref\Manager.Domain.dll
+D:\projetos\c# .net\Manager\src\Manager.Domain\bin\Debug\net5.0\Manager.Domain.pdb
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.csprojAssemblyReference.cache
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfoInputs.cache
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfo.cs
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.dll
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\ref\Manager.Domain.dll
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.pdb
+D:\projetos\c# .net\Manager\src\Manager.Domain\bin\Debug\net5.0\Manager.Core.dll
+D:\projetos\c# .net\Manager\src\Manager.Domain\bin\Debug\net5.0\Manager.Core.pdb
+D:\projetos\c# .net\Manager\src\Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CopyComplete

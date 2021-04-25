@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Manager.Domain",
+    "\\Manager.Domain\\Entities",
+    "\\Manager.Domain\\Validators"
+  ],
+  "SelectedNode": "\\Manager.Domain\\Entities\\User.cs",
+  "PreviewInSolutionExplorer": false
+}
